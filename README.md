@@ -59,10 +59,8 @@
     </a>
 </p>
 
----
-
 <p align="center" style=" font-family: 'Tahoma';">
-<img src="https://github-readme-stats.vercel.app/api?username=Pranesh-vimal&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pranesh-vimal&show_icons=true&theme=merko" />
 </p>
 
 ---
