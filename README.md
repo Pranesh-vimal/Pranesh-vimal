@@ -1,6 +1,8 @@
-<h3 style=" font-family: 'Tahoma';"><b>Hi there 👋 I’m Pranesh.</b></h3>
+<h3 style=" font-family: 'Tahoma';"><b>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="21px"> I’m Pranesh.</b></h3>
 
-<h3 align="center" style=" font-family: 'Tahoma';"><b>Skills</b></h3>
+<p style=" font-family: 'Tahoma';">A passionate individual who loves building web applications.</p>
+
+<h3 align="center" style=" font-family: 'Tahoma';"><b>Tech Stack</b></h3>
 
 <h3 align="center" style=" font-family: 'Tahoma';"><b>Languages</b></h3>
 
@@ -59,25 +61,26 @@
     </a>
 </p>
 
-<p align="center" style=" font-family: 'Tahoma';">
-<img src="https://github-readme-stats.vercel.app/api?username=Pranesh-vimal&show_icons=true&theme=merko" />
-</p>
-
 ---
+
+<h3 align="center" style=" font-family: 'Tahoma';"><b>GitHub Analytics</b></h3>
+
+<p align="center" style=" font-family: 'Tahoma';">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranesh-vimal&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pranesh-vimal&layout=compact&langs_count=8&theme=dark"/>
+</p>
 
 <h3 align="center" style=" font-family: 'Tahoma';"><b>Get In Touch</b></h3>
 
 <p align="center">
-    <a href="https://www.facebook.com/pranesh.vimal05">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="https://twitter.com/Pranesh_Vimal">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="MongoDB" />
-    </a>
-    <a href="https://www.linkedin.com/in/pranesh-vimal/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+	<a href="https://github.com/Pranesh-vimal"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/pranesh-vimal/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/pranesh.vimal05"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/pranesh_vimal/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/Pranesh_Vimal"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
+
+![alt text](./images/footer.svg)
 
 <!--
 **Pranesh-vimal/Pranesh-vimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
